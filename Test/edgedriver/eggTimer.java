@@ -47,7 +47,6 @@ public class eggTimer {
         obj.switchTo().alert().getText();
         System.out.println(alertMessage);
         popup.accept();
-
         /*
         Test case :3
         */
